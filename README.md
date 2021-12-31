@@ -1,5 +1,5 @@
 # EMS
-EMS is a resource for FiveM by Albo1125 that provides medical functionality. It also prevents you from automatically respawning if you die.
+EMS is a resource for FiveM by Albo1125 that provides medical functionality. It also prevents you from automatically respawning if you die. It is available at [https://github.com/Albo1125/EMS](https://github.com/Albo1125/EMS)
 
 ## Installation & Usage
 1. Download the latest release.
